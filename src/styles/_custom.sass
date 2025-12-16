@@ -5,15 +5,26 @@
     top: 5%
     right: 4%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: rotation 5s ease-in-out infinite alternate
     position: absolute
-    top: 55%
-    right: 90%
+    top: 64%
+    left: -7%
+    width: 14%
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+@keyframes rotation
+  0%
+    transform: rotate(0deg)
+    opacity: 0
+  50%
+    transform: rotate(180deg)
+    opacity: 1
+  100%
+    transform: rotate(359deg)
+    opacity: 0
 .banner-principal
   .container.tarjeta
     background-image: url("../assets/curso/portada/fondo-banner-principal.png")
