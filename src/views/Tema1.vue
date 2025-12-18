@@ -60,7 +60,7 @@
                 .cajon.cajon.C02.p-0.h-100
                   img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema1/img07.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.cajon.C01.p-3.h-100
+                .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5 Crisis económicas en los lugares de destino.
           .col-lg-6.col-12
             .row.justify-content-center
@@ -68,7 +68,7 @@
                 .cajon.cajon.C02.p-0.h-100
                   img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema1/img08.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.cajon.C01.p-3.h-100
+                .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5 Reunificación familiar.
           .col-lg-6.col-12
             .row.justify-content-center
@@ -76,7 +76,7 @@
                 .cajon.cajon.C02.p-0.h-100
                   img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema1/img09.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.cajon.C01.p-3.h-100.mb-0
+                .cajon.cajon.C01.p-3.h-100.mb-0.d-flex.align-items-center
                   h5 Dificultades para regularizar su estatus migratorio.
           .col-lg-6.col-12
             .row.justify-content-center
@@ -84,7 +84,7 @@
                 .cajon.cajon.C02.p-0.h-100
                   img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema1/img10.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.cajon.C01.p-3.h-100
+                .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5 Situaciones de discriminación o inseguridad.
     p.mb-5(data-aos="fade-down") El país ha adoptado medidas normativas y humanitarias para garantizar los derechos de las personas migrantes y retornadas, entre ellas:
     .row.justify-content-center.mb-0(data-aos="flip-down")

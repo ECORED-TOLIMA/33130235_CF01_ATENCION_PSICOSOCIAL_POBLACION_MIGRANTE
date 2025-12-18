@@ -132,7 +132,7 @@
           .tarjeta-avatar-b__img
             .col-lg-9(data-aos="flip-up")
               img(src='@/assets/curso/temas/tema3/img12.svg' alt="Imagen decorativa")
-          .tarjeta.tarjeta--C02.px-5
+          .tarjeta.tarjeta--C02.px-5.py-3
             .p-4
               p.mb-0 En conjunto, la Ley 2136 de 2021 constituye el pilar jurídico de la política migratoria colombiana y un instrumento clave para garantizar la dignidad humana, la inclusión y la cohesión social de quienes se encuentran en situación de movilidad.
     separador

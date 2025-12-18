@@ -425,12 +425,12 @@ export default {
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
-        },
+        // {
+        //   nombre: 'Milady Tatiana Villamil Castellanos',
+        //   cargo:
+        //     'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+        //   centro: 'Dirección General',
+        // },
         {
           nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Responsable de línea de producción',

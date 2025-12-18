@@ -114,7 +114,7 @@
       .col-lg-5.order-lg-1.order-2
         .cajon.cajon.C01.color-primario.px-3.py-4.mb-4
           p(data-aos="fade-down") El ACNUR define la protección internacional como el conjunto de acciones destinadas a garantizar los derechos fundamentales de quienes se ven forzados a huir de su país. Estas acciones comprenden la prevención de violaciones de derechos humanos, el acceso a procedimientos de asilo, el principio de no devolución, la reunificación familiar y la asistencia humanitaria en condiciones seguras y respetuosas de la dignidad humana (ONU, 2018). Con ello, se busca no solo brindar seguridad jurídica, sino también restablecer el sentido de humanidad, pertenencia y esperanza en las personas que han sufrido violencia, desarraigo o pérdida.
-      .col-lg-4.order-lg-2.order-1.mb-3.col-md-5.col-7
+      .col-lg-5.order-lg-2.order-1.mb-3.col-md-5.col-7
         figure(data-aos="flip-up") 
           img(src='@/assets/curso/temas/tema2/img12.png', alt='Imagen decorativa')
     .row.justify-content-center.mb-5
