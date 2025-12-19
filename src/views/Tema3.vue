@@ -102,9 +102,9 @@
     p.mb-5(data-aos="fade-down") Desde el enfoque psicosocial, estos ejes incluyen acciones orientadas a:
     .row.justify-content-center.mb-5
       .col-lg-10.col-12
-        .row.justify-content-center.tarjeta.tarjeta--C02.align-items-center.pt-5.pb-5
-          .row.justify-content-center
-            .col-lg-8.col-12.order-lg-2.order-2
+        .row.justify-content-center.tarjeta.tarjeta--C02.align-items-center.pt-5.pb-4
+          .row.justify-content-center.align-items-center
+            .col-lg-9.col-12.order-lg-2.order-2
               ol.lista-ol--cuadro.lista-ol.mb-0
                 li.mb-2
                   .lista-ol--cuadro__vineta
